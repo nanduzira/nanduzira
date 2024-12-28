@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {},
+  "extensions": {
+    "recommendations": [
+      "eliostruyf.vscode-front-matter",
+      "astro-build.astro-vscode"
+    ]
+  }
+}
