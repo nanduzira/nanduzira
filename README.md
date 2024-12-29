@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+
 [![nanduzira's GitHub | Stats](https://stats.quine.sh/nanduzira/github?theme=dark)](https://quine.sh)
 <!--
 **nanduzira/nanduzira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
