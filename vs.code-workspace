@@ -4,11 +4,13 @@
       "path": "."
     }
   ],
-  "settings": {},
+  "settings": {
+  },
   "extensions": {
     "recommendations": [
       "eliostruyf.vscode-front-matter",
-      "astro-build.astro-vscode"
+      "astro-build.astro-vscode",
+      "bradlc.vscode-tailwindcss"
     ]
   }
 }
